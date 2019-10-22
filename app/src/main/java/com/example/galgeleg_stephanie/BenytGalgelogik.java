@@ -9,7 +9,7 @@ public class BenytGalgelogik {
             // Kommentér ind for at hente ord fra DR
     /*
     try {
-      spil.hentOrdFraDr();
+      Spil_akt.hentOrdFraDr();
     } catch (Exception e) {
       e.printStackTrace();
     }
@@ -18,7 +18,7 @@ public class BenytGalgelogik {
             // Kommentér ind for at hente ord fra et online regneark
     /*
     try {
-      spil.hentOrdFraRegneark("12");
+      Spil_akt.hentOrdFraRegneark("12");
     } catch (Exception e) {
       e.printStackTrace();
     }
